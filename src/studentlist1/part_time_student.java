@@ -11,6 +11,10 @@ package studentlist1;
  */
 public class part_time_student extends Student {
     private int numCourse;
+    public part_time_student(String name,String studId int numCourse){
+        super(name,studId);
+        this.numCourse = numCourse;
+    }
 
     public int getNumCourse() {
         return numCourse;
