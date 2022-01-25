@@ -1,6 +1,8 @@
 /*
  * name: dhilshad
  * Date:25 jan
+ * Author: dhilshad
+ * Date: tuesday
  */
 package studentlist;
 
